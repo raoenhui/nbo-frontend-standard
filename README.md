@@ -13,12 +13,12 @@ npm start
 npm run prod
 ```
 
-###启动说明
+### 启动说明
 - npm start 为开发环境，在浏览器中打开<http://localhost:5001>
 - npm run prod 为生产环境，在浏览器中打开<http://localhost:8082>
 - npm install安装失败可用cnpm install
 
-###相关链接
+### 相关链接
 * [vue]        <https://cn.vuejs.org/v2/guide/>
 * [vue-router]<https://router.vuejs.org/zh-cn/index.html>
 * [vuex]       <https://vuex.vuejs.org/zh-cn/intro.html>
@@ -27,11 +27,11 @@ npm run prod
 * [ES6]        <http://www.ecma-international.org/ecma-262/6.0/>
 
 
-###文件结构说明（fileStructure.jpg）
+### 文件结构说明（fileStructure.jpg）
 ![文件结构说明](./images/fileStructure.jpg "文件结构说明")
 
 
-###代码规范
+### 代码规范
 - [Javascript编码](javascript.md) 
 - [CSS编码规范](css.md) 
 
