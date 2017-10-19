@@ -1,13 +1,13 @@
 
 # Javascript编码
 
-[1 前端JavaScript书写规范](#user-content-1)
+[1 前端JavaScript书写规范](#user-content-1-前端JavaScript书写规范)
 
-[2 前端开发环境配置](#user-content-2)
+[2 前端开发环境配置](#user-content-2-前端开发环境配置)
 
-[3 路由配置](#user-content-3)
+[3 路由配置](#user-content-3-路由配置)
 
-[4 组件编写](#user-content-4)
+[4 组件编写](#user-content-4-组件编写)
 
 
 ## <span id="user-content-1">1 前端JavaScript书写规范</span>
