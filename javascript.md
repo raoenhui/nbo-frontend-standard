@@ -16,7 +16,7 @@ JavaScript在各行各业都有着广泛的应用，JavaScript代码风格形成
 [前端JavaScript规范]  <https://yq.aliyun.com/articles/51488>
 
 
-##<span id="user-content-2">2 前端开发环境配置</span>
+## <span id="user-content-2">2 前端开发环境配置</span>
 
 ##### proxyAry表示需要代理的url前缀。
 ##### envs中设为active的则为开发环境。
@@ -45,7 +45,7 @@ var envs = [
   }
 ];
 ```
-##<span id="user-content-3">3 路由配置</span>
+## <span id="user-content-3">3 路由配置</span>
 
 ##### e导入需要的组件，添加路由路径。
 示例：
@@ -61,7 +61,7 @@ export default new Router({
     }]
  })
 ``````
-##<span id="user-content-4">4 组件编写</span>
+## <span id="user-content-4">4 组件编写</span>
 
 ##### 添加基础代码，取唯一标识的name方便调试。
 示例：
