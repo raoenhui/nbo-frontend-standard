@@ -1,15 +1,15 @@
 
 # css编码
 
-[1 前端css书写规范](#user-content-1)
+[1 前端css书写规范](#user-content-1-前端css书写规范)
 
-[2 公共css文件](#user-content-2)
+[2 公共css文件](#user-content-2-公共css文件)
 
-[3 定义变量css文件](#user-content-3)
+[3 定义变量css文件](#user-content-3-定义变量css文件)
 
-[4 定义混合方法css文件](#user-content-4)
+[4 定义混合方法css文件](#user-content-4-定义混合方法css文件)
 
-[5 定义加载图标css文件](#user-content-5)
+[5 定义加载图标css文件](#user-content-5-定义加载图标css文件)
 
 
 ## <span id="user-content-1">1 前端css书写规范</span>
