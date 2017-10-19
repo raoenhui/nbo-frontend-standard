@@ -70,7 +70,7 @@ $blue-3:#d2eafb;
 $blue-4:#7ec2f3;
 $blue-5:#49a9ee;
 ``````
-##<span id="user-content-4">4 定义混合方法css文件</span>
+## <span id="user-content-4">4 定义混合方法css文件</span>
 
 ##### Minxins.scss定义常用方法以及自动完善兼容方法。
 示例：
@@ -94,7 +94,7 @@ $blue-5:#49a9ee;
 }
 
 ``````
-##<span id="user-content-5">5 定义加载图标css文件</span>
+## <span id="user-content-5">5 定义加载图标css文件</span>
 
 ##### Icomoon.scss定义引用外部icon方法。
 示例：
