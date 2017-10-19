@@ -32,7 +32,7 @@ npm run prod
 
 
 ###代码规范
-- [Javascript编码](javascript-style-guide.md) 
-- [CSS编码规范](css-style-guide.md) 
+- [Javascript编码](javascript.md) 
+- [CSS编码规范](css.md) 
 
 
