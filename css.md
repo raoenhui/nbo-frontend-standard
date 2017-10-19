@@ -18,7 +18,7 @@ css在各行各业都有着广泛的应用，html和css代码风格形成了一�
 [前端HTML-CSS规范]  <https://yq.aliyun.com/articles/51487>
 
 
-<span id="user-content-2">## 2 公共css文件</span>
+## <span id="user-content-2"> 2 公共css文件</span>
 
 ##### Main.scss重要存放影响全局样式和常用样式。
 示例：
@@ -48,7 +48,7 @@ body {
   float: right;
 }
 ```
-##<span id="user-content-3">3 定义变量css文件</span>
+## <span id="user-content-3">3 定义变量css文件</span>
 
 ##### Default.scss定义常用变量文件。
 示例：
